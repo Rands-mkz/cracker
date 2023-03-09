@@ -22,7 +22,7 @@ rm -rf cracker
 
 git clone https://github.com/Rands-mkz/cracker
 
-cd php
+cd cracker
 
 git pull
 
