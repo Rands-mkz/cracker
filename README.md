@@ -29,4 +29,4 @@ git pull
 python Run.py
 
 
-#PAID
+#PAID🤑
