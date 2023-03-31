@@ -1,4 +1,6 @@
 # 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+#m.facebook&&b-api
+#Script_Premium
 
 pkg update && pkg upgrade
 
@@ -29,4 +31,4 @@ git pull
 python Run.py
 
 
-#PAID🤑
+
