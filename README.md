@@ -1,6 +1,6 @@
 # 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
-#m.facebook&&b-api
-#Script_Premium
+m.facebook&&b-api
+Script_Premium
 
 pkg update && pkg upgrade
 
