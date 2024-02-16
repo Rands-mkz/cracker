@@ -20,6 +20,8 @@ pip install rich
 
 pip install mechanize
 
+pip install stdiomask
+
 rm -rf cracker
 
 git clone https://github.com/Rands-mkz/cracker
